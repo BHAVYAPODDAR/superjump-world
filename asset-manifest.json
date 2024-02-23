@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/superjump-world/static/css/main.f855e6bc.css",
+    "main.js": "/superjump-world/static/js/main.23de8934.js",
+    "static/js/453.114fd8a8.chunk.js": "/superjump-world/static/js/453.114fd8a8.chunk.js",
+    "index.html": "/superjump-world/index.html",
+    "main.f855e6bc.css.map": "/superjump-world/static/css/main.f855e6bc.css.map",
+    "main.23de8934.js.map": "/superjump-world/static/js/main.23de8934.js.map",
+    "453.114fd8a8.chunk.js.map": "/superjump-world/static/js/453.114fd8a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.23de8934.js"
+  ]
+}
